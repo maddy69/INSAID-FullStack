@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Business</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>My Business</h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Services</a></li>
+      <li><a href="#">Contact Us</a></li>
+    </ul>
+  </nav>
+  <main>
+    <h2>Welcome to My Business</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor justo quis ipsum ultricies, sit amet faucibus massa efficitur. Aliquam ac dictum turpis. Nam condimentum metus non dui interdum, vel sodales magna malesuada. Donec et ipsum id tellus elementum lobortis at et enim. Suspendisse potenti. Nullam porttitor, magna id tempus malesuada, metus purus sollicitudin dui, sed imperdiet quam tellus eu nibh. Etiam nec purus ac sem ornare vehicula. Donec ac purus dictum, vehicula neque ut, iaculis lacus. Cras non consectetur turpis. Aliquam id quam eleifend, faucibus urna quis, malesuada velit. Fusce elementum, lacus eget placerat hendrerit, odio arcu ullamcorper tortor, quis ultricies felis eros eget quam.</p>
+  </main>
+  <footer>
+    <p>Copyright My Business 2021</p>
+  </footer>
+</body>
+</html>
