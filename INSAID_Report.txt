@@ -1,0 +1,15 @@
+1) First, I would gather all the necessary content for the website, including text, images, and any other media that will be needed.
+
+2) Next, I would create wireframes for the home page and contact us page to determine the layout and hierarchy of the content. This will help me visualize how the pages will look and ensure that all the necessary information is included.
+
+3) Once the wireframes are complete, I would start building the website using HTML, CSS, and JavaScript. I would use a mobile-first design approach, which means that I would design for the smallest screen size first and then scale up to larger screens. This ensures that the website will look good and function correctly on all devices.
+
+4) I would also use responsive design techniques, such as media queries and flexible grid layouts, to make sure that the website adjusts to different screen sizes and orientations.
+
+5) For the contact us page, I would create a form using HTML and make sure that it is properly validated and sanitized to protect against spam and malicious input.
+
+6) Finally, I would test the website on a variety of devices to ensure that it looks and functions correctly. This might include testing on different browsers, devices, and screen sizes.
+
+
+
+
