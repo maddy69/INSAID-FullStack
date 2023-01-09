@@ -1,0 +1,21 @@
+<main>
+    <h2>Contact Us</h2>
+    <p>If you have any questions or would like more information about our services, please fill out the form below and we will get back to you as soon as possible.</p>
+    <form action="/contact-us" method="post">
+      <label for="name">Name:</label><br>
+      <input type="text" id="name" name="name"><br>
+      <label for="email">Email:</label><br>
+      <input type="email" id="email" name="email"><br>
+      <label for="message">Message:</label><br>
+      <textarea id="message" name="message"></textarea><br>
+      <input type="submit" value="Submit">
+    </form> 
+  </main>
+  <footer>
+    <p>Copyright My Business 2021</p>
+  </footer>
+</body>
+</html>
+This HTML code will create a basic contact form with input fields for the visitor's name, email, and message, as well as a submit button. The form will use the POST method and
+
+
