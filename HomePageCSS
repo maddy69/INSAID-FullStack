@@ -1,0 +1,53 @@
+/* CSS for the homepage */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+nav {
+  background-color: #eee;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  color: #333;
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color:
